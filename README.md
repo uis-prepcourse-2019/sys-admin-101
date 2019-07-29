@@ -1,11 +1,17 @@
 # Linux System Administration 101
 
 ## Introduction
+This is the course materials for Linux System Administration 101 in UiS. The purpose of this course is making student familar working in terminal environment and linux system.
 
 ## Prerequisite
+- Knowing basic terms in the Linux environment.
+- Knowing basic Linux commands
+
+## Requirement
+- UiS Linux server
 
 ## Task
-In this task, the most important rule is working only in the terminal.
+In these tasks, the most important rule is working only in the terminal.
 
 ### Private Task
 #### Scenario
