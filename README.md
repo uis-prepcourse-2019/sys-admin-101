@@ -30,7 +30,7 @@ Olav built the website for the group project. However, his teammate finds it cha
 - Download the folder called `group-task1`
 - Complete the `start.sh` script.
 - Run the script using the command `./start.sh`.
-- run `curl localhost:8080` and get the message.
+- In the new terminal and run `curl localhost:8080` and get the message 
 - (bonus) Olav wants to run the website in the background using `screen`.
 
 #### Hints/Notes
