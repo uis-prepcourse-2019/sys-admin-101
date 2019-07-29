@@ -15,7 +15,7 @@ However, Olav forgot where he put this script. Moreover, it is very possible tha
 - Download the compressed file using (`wget` or `curl`) from the shell.
 - Extract the file `task.tar.bz2`.
 - Find the location of shell script file called `run.sh`.
-- Fix the problem and successfully run the command `./run.sh`.
+- Fix the problem (e.g, file name, permission) and successfully run the command `./run.sh`.
 
 ### Group Task 1
 #### Scenario
@@ -23,6 +23,7 @@ Olav built the website for the group project. However, his teammate finds it cha
 #### Task
 - Download the folder called `group-task1`
 - Complete the `start.sh` script.
+- Run the script using the command `./start.sh`.
 - run `curl localhost:8080` and get the message.
 - (bonus) Olav wants to run the website in the background using `screen`.
 
