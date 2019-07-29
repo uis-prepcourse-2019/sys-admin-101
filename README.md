@@ -28,15 +28,17 @@ Olav built the website for the group project. However, his teammate finds it cha
 
 #### Hints/Notes
 - Python version is 3.x
-- It should be able to run `virtualenv` command in your working environment.
-  - Otherwise use available machine or server.
-  - Or you can install them
+- Python flask
+  - https://pythonspot.com/flask-hello-world/
+- Python virtualenv
+  - It should be able to run `virtualenv` command in your working environment.
+  - If you are working with Linux server at UiS it will be fine.
+  - https://virtualenv.pypa.io/en/latest/
+  - https://flask.palletsprojects.com/en/1.1.x/installation/
 - Screen
   - https://linux4one.com/how-to-use-linux-screen-command-with-examples/
   - https://serverfault.com/questions/578608/start-unix-screen-run-command-detach
-- Python virtualenv
-  - https://virtualenv.pypa.io/en/latest/
-  - https://flask.palletsprojects.com/en/1.1.x/installation/
+
 
 
 ### Group Task 2
