@@ -46,7 +46,7 @@ Olav built the website for the group project. However, his teammate finds it cha
   - https://linux4one.com/how-to-use-linux-screen-command-with-examples/
   - https://serverfault.com/questions/578608/start-unix-screen-run-command-detach
 
-### Group Task 3
+### Group Task 2
 #### Scenario
 Professor Wiktorski needs to evaluate 100 students' assignments (while he was downloading the assignments, he accidentally removed the file format of the python file). There are four grades A, B, C, and Fail. He will test three cases. If the code passes all the three cases, the grade will be A (two = B, one = C, non=Fail). After finishing the evaluation, he needs to print the final reports that consist of phone number and grade of each student. There is a phone number in the python file. However, each student uses a different format. Therefore he needs to be the same format. Moreover, each grade should be stored as a file in the students' folder.
 
@@ -63,5 +63,17 @@ Professor Wiktorski needs to evaluate 100 students' assignments (while he was do
     - For the students who did not submit, you can use the folder name instead of phonenumber.
 
 
-
-### Group Task 2
+#### Sample
+##### report.txt
+'''
+...
+3997423060 B
+5130705778 A
+75 Fail
+4496778733 A
+6820703746 C
+1956924640 Fail
+9610233884 Fail
+80 Fail
+...
+'''
