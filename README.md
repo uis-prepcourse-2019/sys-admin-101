@@ -48,7 +48,7 @@ Olav built the website for the group project. However, his teammate finds it cha
 
 ### Group Task 2
 #### Scenario
-Professor Wiktorski needs to evaluate 100 students' assignments (while he was downloading the assignments, he accidentally removed the file format of the python file). There are four grades A, B, C, and Fail. He will test three cases. If the code passes all the three cases, the grade will be A (two = B, one = C, non=Fail). After finishing the evaluation, he needs to print the final report that consists of phone number and grade of each student. There is a phone number in the python file. However, each student uses a different format. Therefore he needs to be the same format. Moreover, each grade should be stored as a file in the students' folder.
+Professor Wiktorski needs to evaluate 100 students' assignments (while he was downloading the assignments, he accidentally removed the file format of the python file). There are four grades A, B, C, and Fail. He will test three cases. If the code passes all the three cases, the grade will be A (two = B, one = C, non=Fail). After finishing the evaluation, he needs to print the final report that consists of phone number and grade of each student. There is a phone number in the python file. However, each student uses a different format. Therefore he needs to make them be the same format. Moreover, each grade should be stored as a file in the students' folder.
 
 #### Task
 - Download the `group-task2` folder.
@@ -61,10 +61,12 @@ Professor Wiktorski needs to evaluate 100 students' assignments (while he was do
   1. If the python code passes all the test the grade is A, (passing two = B, passing one = C). And if they pass none, the grade will be Fail
   1. You have to store the `grade.txt` file into each student's folder with their grade.
   1. You have to write a report with student phone number and their grade into `report.txt`.
+      - You have to extract the phone number from python file and remove dash or space.
       - For the students who did not submit, you can use the folder name instead of phone number.
 
 
 #### Sample
+##### [Correct assignment folder](https://github.com/uis-prepcourse-2019/sys-admin-101/tree/master/group-task2/00)
 ##### report.txt
 ```
 ...
@@ -78,4 +80,3 @@ Professor Wiktorski needs to evaluate 100 students' assignments (while he was do
 80 Fail
 ...
 ```
-##### [Correct assignment folder](https://github.com/uis-prepcourse-2019/sys-admin-101/tree/master/group-task2/00)
