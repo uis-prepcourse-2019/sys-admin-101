@@ -53,7 +53,7 @@ Professor Wiktorski needs to evaluate 100 students' assignments (while he was do
 #### Task
 - Download the `group-task2` folder.
 - Rename the file called `main` to `main.py`(complete the code in `type.sh` and use it).
-- Complete the `eval.sh` file with the following order.
+- Complete the [`eval.sh`](https://github.com/uis-prepcourse-2019/sys-admin-101/tree/master/group-task2/eval.sh) file with the following order.
   1. Iterate all the folders (00 ... 99) and check if the file exists.
       - if exists, score the file.
       - if not, the grade is Fail.
