@@ -48,17 +48,17 @@ Olav built the website for the group project. However, his teammate finds it cha
 
 ### Group Task 2
 #### Scenario
-Professor Wiktorski needs to evaluate 100 students' assignments (while he was downloading the assignments, he accidentally removed the file format of the python file). There are four grades A, B, C, and Fail. He will test three cases. If the code passes all the three cases, the grade will be A (two = B, one = C, non=Fail). After finishing the evaluation, he needs to print the final reports that consist of phone number and grade of each student. There is a phone number in the python file. However, each student uses a different format. Therefore he needs to be the same format. Moreover, each grade should be stored as a file in the students' folder.
+Professor Wiktorski needs to evaluate 100 students' assignments (while he was downloading the assignments, he accidentally removed the file format of the python file). There are four grades A, B, C, and Fail. He will test three cases. If the code passes all the three cases, the grade will be A (two = B, one = C, non=Fail). After finishing the evaluation, he needs to print the final report that consists of phone number and grade of each student. There is a phone number in the python file. However, each student uses a different format. Therefore he needs to be the same format. Moreover, each grade should be stored as a file in the students' folder.
 
 #### Task
 - Download the `group-task2` folder.
-- Rename the file called `main` to `main.py`(complete code in `type.sh` and use it).
+- Rename the file called `main` to `main.py`(complete the code in `type.sh` and use it).
 - Complete the `eval.sh` file with the following order.
   1. Iterate all the folders (00 ... 99) and check if the file exists.
       - if exists, score the file.
       - if not, the grade is Fail.
   1. Test the `main.py` file by passing values 1, 0, and 0.1. The correct result should be 9.81, 0, and 0.98, respectively.
-  1. If the python code passes all the test the grade is A, (passed two = B, passed one = C). And if they passed none, the grade will be Fail
+  1. If the python code passes all the test the grade is A, (passing two = B, passing one = C). And if they pass none, the grade will be Fail
   1. You have to store the `grade.txt` file into each student's folder with their grade.
   1. You have to write a report with student phone number and their grade into `report.txt`.
       - For the students who did not submit, you can use the folder name instead of phone number.
@@ -78,3 +78,4 @@ Professor Wiktorski needs to evaluate 100 students' assignments (while he was do
 80 Fail
 ...
 ```
+##### [Correct file structure](./00)
