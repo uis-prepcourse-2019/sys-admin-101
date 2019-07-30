@@ -78,4 +78,4 @@ Professor Wiktorski needs to evaluate 100 students' assignments (while he was do
 80 Fail
 ...
 ```
-##### [Correct file structure](./00)
+##### [Correct assignment folder](https://github.com/uis-prepcourse-2019/sys-admin-101/tree/master/group-task2/00)
