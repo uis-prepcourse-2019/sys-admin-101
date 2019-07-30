@@ -65,7 +65,7 @@ Professor Wiktorski needs to evaluate 100 students' assignments (while he was do
 
 #### Sample
 ##### report.txt
-'''
+```
 ...
 3997423060 B
 5130705778 A
@@ -76,4 +76,4 @@ Professor Wiktorski needs to evaluate 100 students' assignments (while he was do
 9610233884 Fail
 80 Fail
 ...
-'''
+```
