@@ -1,7 +1,7 @@
 # Linux System Administration 101
 
 ## Introduction
-This is the course materials for Linux System Administration 101 in UiS. The purpose of this course is making student familar working in terminal environment and linux system.
+This is the course materials for Linux System Administration 101 in UiS. The purpose of this course is making student familiar working in the terminal environment and Linux system.
 
 ## Prerequisite
 - Knowing basic terms in the Linux environment.
@@ -10,10 +10,10 @@ This is the course materials for Linux System Administration 101 in UiS. The pur
 ## Requirement
 - UiS Linux server
 
-## Task
+## Tasks
 In these tasks, the most important rule is working only in the terminal.
 
-### Private Task
+### Personal Task
 #### Scenario
 Nora received the compressed file from Olav. There is a file that Nora should run using bash script.
 However, Olav forgot where he put this script. Moreover, it is very possible that he made some typo.
@@ -30,7 +30,7 @@ Olav built the website for the group project. However, his teammate finds it cha
 - Download the folder called `group-task1`
 - Complete the `start.sh` script.
 - Run the script using the command `./start.sh`.
-- In the new terminal and run `curl localhost:8080` and get the message
+- In the new terminal and run `curl localhost:8080` and get the message. (You may have to change the port number)
 - (bonus) Olav wants to run the website in the background using `screen`.
 
 #### Hints/Notes
@@ -52,7 +52,7 @@ Professor Wiktorski needs to evaluate 100 students' assignments (while he was do
 
 #### Task
 - Download the `group-task2` folder.
-- Rename the file called `main` to `main.py`(complete the code in `type.sh` and use it).
+- Rename the file called `main` to `main.py`(complete the code in [`type.sh`](https://github.com/uis-prepcourse-2019/sys-admin-101/tree/master/group-task2/eval.sh) and use it).
 - Complete the [`eval.sh`](https://github.com/uis-prepcourse-2019/sys-admin-101/tree/master/group-task2/eval.sh) file with the following order.
   1. Iterate all the folders (00 ... 99) and check if the file exists.
       - if exists, score the file.
